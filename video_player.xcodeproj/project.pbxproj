@@ -16,6 +16,7 @@
 		B238331E2A01941800A120C9 /* video_playerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B238331D2A01941800A120C9 /* video_playerTests.swift */; };
 		B23833282A01941800A120C9 /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B23833272A01941800A120C9 /* video_playerUITests.swift */; };
 		B238332A2A01941800A120C9 /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B23833292A01941800A120C9 /* video_playerUITestsLaunchTests.swift */; };
+		B23833372A0195A600A120C9 /* main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B23833362A0195A600A120C9 /* main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B23833232A01941800A120C9 /* video_playerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = video_playerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B23833272A01941800A120C9 /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		B23833292A01941800A120C9 /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B23833362A0195A600A120C9 /* main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				B238330F2A01941800A120C9 /* Assets.xcassets */,
 				B23833112A01941800A120C9 /* LaunchScreen.storyboard */,
 				B23833142A01941800A120C9 /* Info.plist */,
+				B23833362A0195A600A120C9 /* main.storyboard */,
 			);
 			path = video_player;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 				B23833132A01941800A120C9 /* LaunchScreen.storyboard in Resources */,
 				B23833102A01941800A120C9 /* Assets.xcassets in Resources */,
 				B238330E2A01941600A120C9 /* Main.storyboard in Resources */,
+				B23833372A0195A600A120C9 /* main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
